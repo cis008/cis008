@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archit jagtap
-- 👀 I’m interested in backend devlopment
+- 👀 I’m interested in creating and devloping ai models 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 reach me through my email Id architjagtap38@gmail.com
